@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23033801-c9ab-4798-8e8b-6a2f2a0bf60c)<h2 align="left">Hello 👋! My name is Daniel and I'm from Colombia</h2>
+![image]()<h2 align="left">Hello 👋! My name is Daniel and I'm from Colombia</h2>
 
 ###
 
