@@ -2,8 +2,7 @@
 
 ###
 
-<img  src="![cropped-solaire-of-astora-chibi-nopraising](https://github.com/user-attachments/assets/9097f270-54d9-4210-83fe-58c669ce0df9)
-"  />
+<img  src=""  />
 
 ###
 
