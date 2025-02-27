@@ -1,8 +1,8 @@
-<h2 align="left">Hello 👋! My name is Daniel and I'm from Colombia</h2>
+![image](https://github.com/user-attachments/assets/23033801-c9ab-4798-8e8b-6a2f2a0bf60c)<h2 align="left">Hello 👋! My name is Daniel and I'm from Colombia</h2>
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fgummy772%2Fart%2FArtorias-and-Sif-804685676&psig=AOvVaw3Q3Cp9xNcMiqAOlu8jw3ni&ust=1740755185527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCymseN5IsDFQAAAAAdAAAAABAE"  />
 
 ###
 
