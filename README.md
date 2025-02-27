@@ -23,7 +23,7 @@
 ###
 <div align="left">
   <p>
-    Hola soy un joven estudiante de Ingenieria en sistemas y computacion de al Univercidad catolica de Colombia
+    Hola<br> soy un joven estudiante de Ingenieria en sistemas y computacion<br> de al Univercidad Catolica de Colombia
   </p>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
