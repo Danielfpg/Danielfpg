@@ -2,8 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[ ![image](https://github.com/user-attachments/assets/d27c7a84-cdd5-493f-ba6d-ca777ddbb9f6)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Ddark%2Bsouls&psig=AOvVaw2s5f8Bz3iF8Soz3EWLknQY&ust=1740755935738000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC1xq-Q5IsDFQAAAAAdAAAAABAJ)
-"  />
+<img align="right" height="150" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.harrisonamor.co.uk%2Fcropped-solaire-of-astora-chibi-nopraising-png%2F&psig=AOvVaw0azUjLDjVZetcj2O5ygBJe&ust=1740756004781000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDWw8-Q5IsDFQAAAAAdAAAAABAE"  />
 
 ###
 
