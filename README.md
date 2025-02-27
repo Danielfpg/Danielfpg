@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="![cropped-solaire-of-astora-chibi-nopraising](https://github.com/user-attachments/assets/b0c2bb79-f4a6-42d5-a169-3dcf20872658)
+<img align="right" height="150" src="file:///C:/Users/sala8/Desktop/cropped-solaire-of-astora-chibi-nopraising.png
  "  />
 
 ###
