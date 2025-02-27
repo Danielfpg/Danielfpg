@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src=" "  />
+![Uploading ddb37fw-37b01b00-0a08-4371-abda-1bcb81dce857.gif…]()
 
 ###
 
@@ -32,6 +33,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F422281198785877%2F&psig=AOvVaw1JsQHP9kXgJXr-qV5BRkTw&ust=1740755812224000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiQqfOP5IsDFQAAAAAdAAAAABAE"  />
 
 ###
