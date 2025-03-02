@@ -44,7 +44,7 @@
 ###
 <div align="left">
   <a href="https://open.spotify.com/user/31fxo3t2xkzsukrle4cts6kdf3qu?si=9da5f2a877bb4f02">
-    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"  />
+    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="150" height="150"  />
   </a>
 </div>
 
