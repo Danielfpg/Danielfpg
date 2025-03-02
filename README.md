@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/80d3946c-404c-462f-8976-4670d1f0b059)<h2 align="left">Hello 👋! My name is Daniel and I'm from Colombia</h2>
+<h2 align="left">Hello 👋! My name is Daniel and I'm from Colombia</h2>
 
 ###
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 
   <a href="danielfelipehg10@gmail.com"  >
-  <img src="![image](https://github.com/user-attachments/assets/073bbac0-693f-4588-bd64-5d19b0f6767b)" height="35" alt="gmail logo"  />
+  <img src="https://github.com/user-attachments/assets/073bbac0-693f-4588-bd64-5d19b0f6767b" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/daniel-felipe-paredes-gonzalez-638373239/"  >
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
