@@ -35,13 +35,8 @@
   <a href="https://www.linkedin.com/in/daniel-felipe-paredes-gonzalez-638373239/"  >
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-
-###
-<div align="left">
   <a href="https://open.spotify.com/user/31fxo3t2xkzsukrle4cts6kdf3qu?si=9da5f2a877bb4f02">
-    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="150" height="150"  />
+    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="50" height="50"  />
   </a>
 </div>
 
