@@ -36,7 +36,7 @@
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/Danifpg">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fxo3t2xkzsukrle4cts6kdf3qu&unique={true|1|on|yes})" alt="Spotify recently played"  />
+    <img src="https://img.icons8.com/?size=100&id=63316&format=png&color=000000" alt="Spotify recently played"  />
   </a>
 </div>
 
