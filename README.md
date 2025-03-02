@@ -7,28 +7,13 @@
 ###
 
 
-Soy un joven estidiante de ingenieria en sistemas y computacion en la univercidad<br>
-catolica de Colombia
+Soy un joven estidiante de ingenieria en sistemas y computacion<br>
+en la univercidad catolica de Colombia
 
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
+👩‍💻 Actualmente estoy trabajando en mi Proyecto de Grado
 
 
 <div align="left">
