@@ -44,7 +44,7 @@
 ###
 <div align="left">
   <a href="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png">
-    <img src="https://img.icons8.com/?size=100&id=63316&format=png&color=000000" alt="Spotify recently played"  />
+    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"  />
   </a>
 </div>
 
