@@ -1,38 +1,62 @@
-<h1 align="center">¡Hola, soy Daniel Felipe! 🇨🇴</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas y Computación | Apasionado por la IA y el Desarrollo de Software</h3>
+<h1 align="center">¡Hola, soy Daniel Felipe González! 👋</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas y Computación | Desarrollo de Software & Bases de Datos</h3>
 
 <div align="center">
-  <i>Transformando ideas en código. Explorando el Machine Learning, la Visión por Computadora y el Desarrollo de Software.</i>
+  <i>Construyendo soluciones prácticas en Python y Java, estructurando bases de datos SQL/NoSQL y explorando el análisis de datos.</i>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas y Computación** en la Universidad Católica de Colombia.
-- 🧠 Enfocado en **Inteligencia Artificial**, **Machine Learning** y **Visión por Computadora** (implementando CNNs, OpenCV, etc.).
-- ⚙️ Experiencia trabajando con entornos y despliegues como **IntelliJ IDEA**, **Supabase**, **Railway** y **Render**.
-- 🔭 Actualmente trabajando en mi proyecto principal: **VisionStock**.
-- ⚡ Fuera del código: Disfruto jugar Valorant, la saga de Blasphemous y explorar temáticas de mitología nórdica y egipcia.
+- 🎓 Estudiante de 6.° semestre de **Ingeniería en Sistemas y Computación** en la Universidad Católica de Colombia.
+- 💻 Orientado al desarrollo **Backend y de aplicaciones de escritorio** (Python, Java 21, FastAPI, JavaFX) y al diseño y consulta de **bases de datos relacionales y NoSQL** (PostgreSQL, MySQL, SQLite, MongoDB).
+- 📊 Experiencia académica en **procesos ETL, análisis estadístico de datos, simulación de sistemas** y procesamiento de imágenes con **OpenCV**.
+- 🔭 Actualmente desarrollando **QuickMira**, un sistema de gestión de inventarios con persistencia híbrida y auditoría automática en tiempo real.
+- 🌐 Inglés **Nivel B2 (Intermedio-Alto)**.
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **[QuickMira](https://github.com/Danielfpg/QuickMira)** | Aplicación de escritorio para gestión de inventarios y ventas con cambio en caliente entre motores SQL/NoSQL, consumo de API externa y auditoría automática en MongoDB. | `Java 21` `JavaFX` `Maven` `MySQL` `SQLite` `MongoDB` |
+| **[Reconocimiento de Señales en Bogotá](https://github.com/Danielfpg/traffic-signs-Bogot-)** | Pipeline de visión por computadora y CNN con mejora adaptativa de imagen (CLAHE y filtros morfológicos) para condiciones urbanas adversas. | `Python` `OpenCV` `CNN` `Google Colab` |
+| **Simulación y Análisis SDLC (Jira)** | Proceso ETL sobre 1,750 registros reales de Jira, análisis estadístico y simulación de eventos discretos para optimizar cuellos de botella en QA y Desarrollo. | `Python` `SimPy` `Estadística` `ProModel` |
+
+---
 
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" title="Maven" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 </div>
 
 ---
@@ -40,34 +64,8 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/Danielfpg?tab=repositories">
-    <img src="https://img.shields.io/github/public-repos/Danielfpg?style=for-the-badge&logo=github&color=2ea44f&label=Repositorios%20Públicos" alt="Repositorios"/>
-  </a>
-  <a href="https://github.com/Danielfpg?tab=followers">
-    <img src="https://img.shields.io/github/followers/Danielfpg?style=for-the-badge&logo=github&color=2ea44f&label=Seguidores" alt="Seguidores"/>
-  </a>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielfpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielfpg&theme=dark&hide_border=false&layout=compact" alt="Top Langs" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danielfpg&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-### 🎵 Escuchando en Spotify...
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fxo3t2xkzsukrle4cts6kdf3qu?si=60eb329a6096466d&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielfpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielfpg&theme=dark&hide_border=false&layout=compact" alt="Top Langs" height="165" />
 </div>
 
 ---
@@ -75,13 +73,10 @@
 ### 📫 Conecta conmigo
 
 <div align="center">
-  <a href="mailto:danielfelipehg10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/daniel-felipe-paredes-gonzalez-638373239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/danielzg_.2006/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.twitch.tv/dani_rst12"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+  <a href="https://www.linkedin.com/in/daniel-gonzalez-638373239/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danielfelipehg10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
-
-<p align="center">
-  <br>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Danielfpg&icon=0&color=0" alt="Visitas"/></a>
-</p>
