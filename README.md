@@ -23,7 +23,7 @@
 | :--- | :--- | :--- |
 | **[QuickMira](https://github.com/Danielfpg/QuickMira)** | Aplicación de escritorio para gestión de inventarios y ventas con cambio en caliente entre motores SQL/NoSQL, consumo de API externa y auditoría automática en MongoDB. | `Java 21` `JavaFX` `Maven` `MySQL` `SQLite` `MongoDB` |
 | **[Reconocimiento de Señales en Bogotá](https://github.com/Danielfpg/traffic-signs-Bogot-)** | Pipeline de visión por computadora y CNN con mejora adaptativa de imagen (CLAHE y filtros morfológicos) para condiciones urbanas adversas. | `Python` `OpenCV` `CNN` `Google Colab` |
-| **[Project Cars Data Engineering](https://github.com/jlozano1118/Project_Cars_Data_Engineering)** | Pipeline ETL distribuido con PySpark procesando 1.93 millones de registros bajo arquitectura Medallion. | `Python` `PySparck` `Apache Parquet` `PostgreSQL` `Google Colab` `Dimensional Modeling.` |
+| **[Project Cars Data Engineering](https://github.com/Danielfpg/Project_Cars_Data_Engineering)** | Pipeline ETL distribuido con PySpark procesando 1.93 millones de registros bajo arquitectura Medallion. | `Python` `PySparck` `Apache Parquet` `PostgreSQL` `Google Colab` `Dimensional Modeling.` |
 
 ---
 
