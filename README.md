@@ -67,7 +67,7 @@
   <img src="https://github-stats-extended.vercel.app/api?username=Danielfpg&theme=dark&hide_border=false&include_all_commits=true&show_icons=true&v=3" alt="GitHub Stats" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danielfpg&theme=dark&hide_border=false&layout=compact&v=3" alt="Top Langs" height="165" />
 </p>
----
+
 
 ### 📫 Conecta conmigo
 
