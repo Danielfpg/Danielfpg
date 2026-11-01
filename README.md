@@ -64,8 +64,8 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielfpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielfpg&theme=dark&hide_border=false&layout=compact" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielfpg&theme=dark&hide_border=false&include_all_commits=true&show_icons=true&v=1" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielfpg&theme=dark&hide_border=false&layout=compact&v=1" alt="Top Langs" height="165" />
 </div>
 
 ---
